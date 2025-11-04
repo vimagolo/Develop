@@ -1,0 +1,261 @@
+@media (min-width:1600px){
+
+}
+
+
+
+
+
+
+@media (min-width: 1199px) and (max-width:1400px){
+
+    /*ESTILOS PARA EL BANNER - */
+    .banner__container{
+        width: 65%;
+    }
+
+}
+
+
+
+
+
+
+@media(max-width:1198px){
+
+    /*ESTILOS PARA EL BANNER - */
+    .layout__banner{
+        padding: 10rem 10rem;
+    }
+    .banner__container{
+        width: 60%;
+    }
+    .banner__title{
+        font-size: 6rem;
+    }
+    .shapes__item{
+        width:50%;
+    }
+
+
+    /*ESTILO  SECCION SERVICIOS*/
+    .services__service{
+        padding: 4rem 2rem;
+        gap: 2rem;
+    }
+    .sercive__container-img{
+        max-width: 8.5rem;
+        flex: 1;
+    }
+    .service__content{
+        flex: 3;
+    }
+}
+
+
+
+
+
+
+@media(max-width:1000px){
+
+    /*ESTILOS GENERALES*/
+    .layout__services,
+    .layout__projects,
+    .layout__stats,
+    .layout__reviews,
+    .layout__clients,
+    .layout__news,
+    .layout__contact,
+    .layout__footer{
+        padding: 8rem 8rem;
+    }
+    .services__subtitle,
+    .projects__subtitle,
+    .stats__subtitle,
+    .reviews__subtitle,
+    .clients__subtitle,
+    .news__subtitle,
+    .contact__subtitle{
+        font-size: 2rem;
+    }
+    .services__title,
+    .projects__title,
+    .stats__title,
+    .reviews__title,
+    .clients__title,
+    .news__title,
+    .contact__title
+    {
+        font-size: 5rem;
+    }
+
+
+    /*ESTILOS CACEZERA*/
+    .navbar__nav{
+        display: none;
+    }
+
+
+    /*ESTILOS PARA EL BANNER - */
+    .layout__banner{
+        padding: 8rem 8rem;
+    }
+    .banner__container{
+        width: 65%;
+    }
+    .banner__title{
+        font-size: 5.5rem;
+    }
+    .shapes__item{
+        width: 60%;
+    }
+
+
+    /*ESTILO  SECCION SERVICIOS*/
+    .services__title{
+        margin-bottom: 4rem;
+    }
+    .services__list{
+        flex-direction: column;
+    }
+    .services__service{
+        width: 100%;
+        padding: 3rem 3rem;
+        margin: 0;
+    }
+    .sercive__container-img{
+        max-width: 8.5rem;
+        flex: 1;
+    }
+}
+
+
+
+
+
+
+@media(max-width:850px){
+
+    /*ESTILOS PARA EL BANNER - */
+    .layout__banner{
+        padding: 7rem 7rem;
+    }
+    .banner__container{
+        width: 69%;
+    }
+    .service-shapes__item
+
+
+    /*ESTILO  SECCION SERVICIOS*/
+    .service-shapes__item--shape2{
+        display: none;
+    }
+}
+
+
+
+
+
+
+@media(max-width:770px){
+
+    /*ESTILOS GENERALES*/
+    .layout__services,
+    .layout__projects,
+    .layout__stats,
+    .layout__reviews,
+    .layout__clients,
+    .layout__news,
+    .layout__contact,
+    .layout__footer{
+        padding: 6rem 6rem;
+    }
+    .services__subtitle,
+    .projects__subtitle,
+    .stats__subtitle,
+    .reviews__subtitle,
+    .clients__subtitle,
+    .news__subtitle,
+    .contact__subtitle{
+        font-size: 2rem;
+    }
+    .services__title,
+    .projects__title,
+    .stats__title,
+    .reviews__title,
+    .clients__title,
+    .news__title,
+    .contact__title
+    {
+        font-size: 5rem;
+    }
+
+
+    /*ESTILOS PARA EL BANNER - */
+    .layout__banner{
+        padding: 6rem 6rem;
+    }
+    .banner__container{
+        width: 100%;
+    }
+    .banner__title{
+        font-size: 5.4rem;
+    }
+    .banner__btn{
+        padding: 2rem 4rem; 
+    }
+}
+
+
+
+
+
+
+@media(max-width:640px){
+
+    /*ESTILOS GENERALES*/
+    .layout__services,
+    .layout__projects,
+    .layout__stats,
+    .layout__reviews,
+    .layout__clients,
+    .layout__news,
+    .layout__contact,
+    .layout__footer{
+        padding: 3rem 3rem;
+    }
+    .services__subtitle,
+    .projects__subtitle,
+    .stats__subtitle,
+    .reviews__subtitle,
+    .clients__subtitle,
+    .news__subtitle,
+    .contact__subtitle{
+        font-size: 2rem;
+    }
+    .services__title,
+    .projects__title,
+    .stats__title,
+    .reviews__title,
+    .clients__title,
+    .news__title,
+    .contact__title
+    {
+        font-size: 5rem;
+    }
+
+
+    /*ESTILOS PARA EL BANNER - */
+    .layout__banner{
+        padding: 5rem ;
+    }
+    .banner__container{
+        width: 100%;
+    }
+    .banner__title{
+        font-size: 5.4rem;
+    }
+}
+
+

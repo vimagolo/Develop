@@ -17,10 +17,10 @@ Asimismo, promueve la autonomía en el **despliegue de proyectos web** utilizand
 
 | Tecnología | Descripción |
 |-------------|-------------|
-| 🧩 **HTML5** | Base estructural del contenido web. |
-| 🎨 **CSS3** | Diseño visual, estilos y maquetación responsiva. |
-| 🧭 **Git & GitHub** | Control de versiones y colaboración en desarrollo. |
-| 🚀 **Netlify** | Despliegue del sitio y alojamiento en la nube. |
+| **HTML5** | Base estructural del contenido web. |
+| **CSS3** | Diseño visual, estilos y maquetación responsiva. |
+| **Git & GitHub** | Control de versiones y colaboración en desarrollo. |
+| **Netlify** | Despliegue del sitio y alojamiento en la nube. |
 
 ---
 
@@ -30,4 +30,4 @@ Asimismo, promueve la autonomía en el **despliegue de proyectos web** utilizand
 
 ---
 
-> ✨ *“El diseño web no solo comunica visualmente, sino que refleja el proceso lógico y estructurado detrás de cada línea de código.”*
+*“El diseño web no solo comunica visualmente, sino que refleja el proceso lógico y estructurado detrás de cada línea de código.”*
